@@ -1,4 +1,4 @@
-# napszakok
+# Napszakok
 Kedves diákok!
 
 Készítsétek el a design mappában található weboldalt!
