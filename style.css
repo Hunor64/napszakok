@@ -1,0 +1,78 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#clock {
+    text-align: left;
+    font-size: 300px;
+    color: white;
+}
+
+.seconds {
+    font-size: 150px;
+}
+
+#weather-icon {
+    width: 50px;
+    height: 30px;
+}
+
+#time-zone {
+    font-size: 50px;
+    color: white;
+}
+
+#greeting {
+    text-align: left;
+    color: white;
+
+    font-size: 30px;
+
+}
+
+#quote-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.596);
+    width: 450px;
+    height: 130px;
+    color: white;
+}
+
+
+#quote {
+    padding: 10px;
+}
+
+img {
+    width: 5px;
+    height: 50px;
+}
+
+#refresh-quote {
+    width: 25px;
+    height: 25px;
+    padding: 10px;
+    float: left;
+}
+
+.container {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-20%);
+    padding-left: 50px;
+}
+
+.row {
+    display: flex;
+}
