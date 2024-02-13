@@ -4,8 +4,8 @@ Kedves diákok!
 Készítsétek el a design mappában található weboldalt!
 Az oldal mindig mutassa az aktuális időt, másodperc pontossággal (a dizájnnak megfelelő formátumban).
 
-06:00-11:59 - Morning.png
-12:00 - 19:59 - Afternoon.png
+06:00 - 09:59 - Morning.png
+10:00 - 19:59 - Afternoon.png
 20:00 - 05:59 - Night.png
 
 (Tudom hogy az Evening kimaradt, de nem találtam elég jó képet... Szorgalmiban meg lehet csinálni).
